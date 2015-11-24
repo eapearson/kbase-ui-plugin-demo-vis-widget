@@ -9,7 +9,7 @@ define([
     'bluebird',
     'jquery',
     'underscore',
-    'kb_common_dom',
+    'kb/common/dom',
     'kb_vis_barChart'],
     function (Promise, $, _, dom) {
         'use strict';
