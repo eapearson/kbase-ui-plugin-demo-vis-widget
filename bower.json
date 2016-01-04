@@ -1,0 +1,31 @@
+{
+    "name": "kbase-ui-plugin-demo-vis-widget",
+    "description": "A demonstration of KBase data visualzation base widgets",
+    "author": [
+        "kbase"
+    ],
+    "keywords": [
+        "kbase",
+        "ui",
+        "plugin",
+        "demo",
+        "widget"
+    ],
+    "moduleType": "kbase-ui-plugin",
+    "main": "src/plugin/config.yml",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/kbase/kbase-ui-plugin-demo-vis-widget"
+    },
+    "dependencies": {
+        "jquery": "^2.1.0",
+        "bluebird": "^3.0.0",
+        "kbase-ui-plugin-vis-widgets": "^0.1.0"
+    },
+    "devDependencies": {
+    },
+    "ignore": [
+        ".gitignore"
+    ],
+    "license": "SEE LICENSE IN LICENSE.md"
+}

@@ -8,10 +8,9 @@
 define([
     'bluebird',
     'jquery',
-    'underscore',
     'kb/common/dom',
     'kb_vis_barChart'],
-    function (Promise, $, _, dom) {
+    function (Promise, $, dom) {
         'use strict';
         function widget(config) {
             var mount, container, runtime = config.runtime;
