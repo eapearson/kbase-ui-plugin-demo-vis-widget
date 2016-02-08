@@ -20,7 +20,7 @@
     "dependencies": {
         "jquery": "^2.1.0",
         "bluebird": "^3.0.0",
-        "kbase-ui-plugin-vis-widgets": "^0.1.0"
+        "kbase-ui-plugin-vis-widgets": "^1.0.0"
     },
     "devDependencies": {
     },
